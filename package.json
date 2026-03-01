@@ -1,0 +1,1 @@
+{"name":"war-intel","version":"1.0.0","description":"Node.js backend for war intelligence tracking","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.17.1","pg":"^8.7.1","ws":"^7.5.3","socket.io":"^4.3.2"}}

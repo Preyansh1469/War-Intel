@@ -1,0 +1,13 @@
+# Requirements for Python Data Ingestion Services
+
+# AIS Decoding Libraries
+ais
+
+# Signal Processing Libraries
+numpy
+scipy
+
+# Database Libraries
+sqlite3
+pandas
+SQLAlchemy
